@@ -1,0 +1,8 @@
+//GET
+//POST
+//PUT
+//DELETE
+
+//Corpo (request body): Dados da criação ou atualização de um registo
+//Route Params: Identificar qual recurso eu quero att ou deletar
+//Query Params: Paginação, filtros, ordenação
